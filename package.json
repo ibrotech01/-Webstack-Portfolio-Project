@@ -1,5 +1,6 @@
 {
-  "devDependencies": {
+  "devDependencies": 
+  {
     "babel-plugin-react-require": "^3.1.3"
   }
 }
